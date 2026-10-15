@@ -60,3 +60,4 @@ The API is now at http://localhost:8000.
 In a new terminal (with the venv activated):
 streamlit run frontend/streamlit_app.py
 The app opens at http://localhost:8501.
+
